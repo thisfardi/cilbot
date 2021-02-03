@@ -1,0 +1,2 @@
+# cilbot
+BOT WA SIMPLE
