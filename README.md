@@ -1,201 +1,76 @@
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Ramlan
 <p align="center">
-<img src="https://avatars2.githubusercontent.com/u/53950128?s=460&u=09f530e3326f710c4e0f9106f094eeea5429f86d&v=4" width="128" height="128"/>
+<img src="https://raw.githubusercontent.com/yhndrmw/cilbot/main/crepybot.png" width="350" height="350"/>
+</p>
+<br>
+
+
+
+<p align="center">
+<a href="#"><img title="YOHANDARA M.W" src="https://img.shields.io/badge/RAMLAN-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="https://github.com/Ramlan666"><img title="Author" src="https://img.shields.io/badge/AUTHOR-RAMLAN-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/ArugaZ"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ARUGAZ-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Ramlan666/babybot/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ramlan666?color=blue&style=flat-square"></a>
+<a href="https://github.com/Ramlan666/babybot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Ramlan666/babybotcolor=red&style=flat-square"></a>
+<a href="https://github.com/Ramlan666/babybot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ramlan666/babybot?color=red&style=flat-square"></a>
+<a href="https://github.com/Ramlan666/babybot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Ramlan666/babybot?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRamlan666%2Fbabybot&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 </p>
-<p align="center">
-<a href="https://www.codefactor.io/repository/github/arugaz/whatsapp-bot/overview/master"><img title="Rating" src="https://www.codefactor.io/repository/github/arugaz/whatsapp-bot/badge/master"></a>
-</p>
-<p align="center">
-<a href="https://github.com/arugaz/followers"><img title="Followers" src="https://img.shields.io/github/followers/arugaz?color=blue&style=flat-square"></a>
-<a href="https://github.com/arugaz/whatsapp-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/arugaz/whatsapp-bot?color=red&style=flat-square"></a>
-<a href="https://github.com/arugaz/whatsapp-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/arugaz/whatsapp-bot?color=red&style=flat-square"></a>
-<a href="https://github.com/arugaz/whatsapp-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/arugaz/whatsapp-bot?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FArugaZ%2Fwhatsapp-bot&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-</p>
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Mario Game" width="600" />
 <div align="center">
 <details>
- <summary>🥟 Help me!</summary>
- 
- [Trakteer](https://trakteer.id/arugabot)
  
 </details>
 
-ini semua gratis, jangan pelit ⭐️ ya :D
-<p align="center"><a href="https://www.arugaz.my.id" target="_blank">ArugaZ Rest Api</a>.</p>
-<p align="center"><a href="https://instagram.com/ini.kocakz/" target="_blank">Chat me on Insta</a>.</p>
+### 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 SIAPA??:)
+
+### WARNING
+MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK INSTAGRAM SAYA.... DILARANG UBAH INFO!!!
+
+## NOTE:> 
+SCRIPTNYA JANGAN DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS BUAT KALIAN PENGGUNA TERMUX
 </div>
 
-## Getting Started
-
-This project require NodeJS v12.
-
-### Install
-Clone this project
-
+### ALAT DAN BAHAN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="29px">
+Siapin alat dan bahannya.
 ```bash
-> git clone https://github.com/ArugaZ/whatsapp-bot.git
-> cd whatsapp-bot
+> niat
+> 2 handphone (1 buat jalanin sc, 1 buat scan kode qr kak)
+> jaringan internet kenceng,kuota+
+> penyimpanan yang memadai HP ANE RAM (1/8) KUAT KOK:)
+> aplikasi Whatsapp/WAaero/WAgb/WAkebal/WaBusinies
+> aplikasi Termux
 ```
 
-Install the dependencies:
-
+### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
+Script ini di modifikasi saya gabungan dari scripit suhu yang lain yaa...
 ```bash
-> npm install 
-> npm install gify-cli -g
+> kalo lu belum punya apk termux, download di playstore
+> masuk ke apk termux lalu ketik dibawah ini!
+> git clone https://github.com/yhndrmw/crepybot
+> cd crepybot
+> bash install.sh
+> node index.js
+> Tinggal scan kode QR 
 ```
 
-### Usage
-Run the Whatsapp bot
 
-```bash
-> npm start
-```
+Ket: Aktiv 24 jam
 
-after running it you need to scan the qr
-
-### Information
-- Change ownerNumber on [this section](https://github.com/ArugaZ/whatsapp-bot/blob/master/settings/setting.json#L2)
-- Change groupLimit on [this section](https://github.com/ArugaZ/whatsapp-bot/blob/master/settings/setting.json#L3)
-- Change memberLimit on [this section](https://github.com/ArugaZ/whatsapp-bot/blob/master/settings/setting.json#L4)
-- Change prefix on [this section](https://github.com/ArugaZ/whatsapp-bot/blob/master/settings/setting.json#L5)
-- Change menu on [this section](https://github.com/ArugaZ/whatsapp-bot/blob/master/lib/menu.js#L32)
-- Add kata kasar on [this section](https://github.com/ArugaZ/whatsapp-bot/blob/master/lib/kataKotor.js#L8)
-- Change all apiKey on [this section](https://github.com/ArugaZ/whatsapp-bot/blob/master/settings/api.json)
-- Get Api NoBackground on [this website](https://www.remove.bg/)
-- Get Api ScreenShot on [this website](https://apiflash.com/)
-- Get Api Simi-simi on [this website](https://workshop.simsimi.com/en/), masih limit api simi-siminya? [cek ini](https://github.com/ArugaZ/whatsapp-bot/issues/38#issuecomment-726981060)
-
----
-
-## Features
-
-| 18+ |Yes|
-| ------------- | ------------- |
-| Nekopoi |✅|
-
-| Creator |Yes|
-| ------------- | ------------- |
-| Respond img to sticker|✅|
-| Respond img to sticker no bg|✅|
-| Respond url to sticker|✅|
-| Respond gif to sticker|✅|
-| Respond giphy url to sticker|✅|
-| Make a meme from photo|✅|
-| Quotes maker result pict|✅|
-| Nulis Bot|✅|
-
-| Islam |Yes|
-| ------------- | ------------- |
-| List Surah|✅|
-| Info Surah|✅|
-| Surah|✅|
-| Tafsir Alquran|✅|
-| Alquran Audio/Voice|✅|
-| Jadwal solat|✅|
-
-| Downloader |Yes|
-| ------------- | ------------- |
-| Youtube Music |✅|
-| Youtube Video |✅|
-| Facebook |✅|
-
-| Fun Group! |Yes|
-| ------------- | ------------- |
-| Simi-simi BOT|✅|
-| Anti kata kasar|✅|
-
-| Primbon |Yes|
-| ------------- | ------------- |
-| Arti nama |✅|
-| Cek Jodoh |✅|
-
-| Searchs |Yes|
-| ------------- | ------------- |
-| Images |✅|
-| Subreddit |✅|
-| Resep makanan |✅|
-| Stalk IG |✅|
-| Wikipedia |✅|
-| Cuaca |✅|
-| Chord musik |✅|
-| Lirik musik |✅|
-| Screen Crot!|✅|
-| Play music|✅|
-| whats anime?|✅|
-
-| Random text |Yes|
-| ------------- | ------------- |
-| Pantun pakboy|✅|
-| Fakta Menarik|✅|
-| Kata Bijak|✅|
-| Quotes|✅|
-| Cerita Sex|✅|
-| Cerita Pendek|✅|
-| Puisi|✅|
-
-| Random image |Yes|
-| ------------- | ------------- |
-| Anime |✅|
-| Kpop |✅|
-| Memes |✅|
+## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
+* [`Donasi Ramlan ID`](https://saweria.co/yhndrmw)
 
 
-| Others |Yes|
-| ------------- | ------------- |
-| Teks to Sound/Voice|✅|
-| Translate teks|✅|
-| Get covid info from map|✅|
-| Covid-19 Indo|✅|
-| Shortlink|✅|
-| Bap4k F0nt|✅|
+## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-| Groups |Yes|
-| ------------- | ------------- |
-| Owner||
-| Kick all members|✅|
-| Admin||
-| Add user|✅|
-| Kick user|✅|
-| Promote User|✅|
-| Demote User|✅|
-| Mute Group|✅|
-| Change Group icon|✅|
-| Delete bot msg|✅|
-| Tagall/mentions all|✅|
-| Welcome ON/OFF|✅|
+* [`Youtube Admin`](https://youtube.com/c/crepyzx)
+* [`Instagram Admin`](https://instagram.com/crepyzx)
+* [`WhatsApp Admin `](https://wa.me/+6281235029264)
+* [`Group WhatsApp `](https://chat.whatsapp.com/HjTnV42no80FDIoMf03BFt)
+## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
-
-| Owner bot |Yes|
-| ------------- | ------------- |
-| Broadcast|✅|
-| Leave all group|✅|
-| Delete all msgs|✅|
-| Banned user|✅|
-
-
-## To-Do
- - Add Media Downloader
- - Add More Feature
- - More refactoring
- 
----
-
-## Troubleshooting
-Make sure all the necessary dependencies are installed: https://github.com/puppeteer/puppeteer/blob/main/docs/troubleshooting.md
-
-Fix Stuck on linux, install google chrome stable: 
-```bash
-> wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-> sudo apt install ./google-chrome-stable_current_amd64.deb
-```
-
-## Thanks to
-- [WA-Automate](https://github.com/open-wa/wa-automate-nodejs)
-- [YogaSakti](https://github.com/YogaSakti/imageToSticker)
-- [MhankBarBar](https://github.com/MhankBarBar/whatsapp-bot)
-- [dandyraka](https://github.com/dandyraka/NoBadWord)
+* [`ALLAH SWT`]
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
