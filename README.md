@@ -10,14 +10,7 @@
 <a href="#"><img title="YOHANDARA M.W" src="https://img.shields.io/badge/YOHANDARA-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/yhndrmw"><img title="Author" src="https://img.shields.io/badge/AUTHOR-RAMLAN-orange.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-<a href="https://github.com/yhndrmw/crepybot/followers"><img title="Followers" src="https://img.shields.io/github/followers/yhndrmw?color=blue&style=flat-square"></a>
-<a href="https://github.com/yhndrmw/crepybot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/yhndrmw/crepybot?color=red&style=flat-square"></a>
-<a href="https://github.com/yhndrmw/crepybot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/yhndrmw/crepybot?color=red&style=flat-square"></a>
-<a href="https://github.com/yhndrmw/crepybot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/yhndrmw/crepybot?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyhndrmw%2Fcrepybot&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/yhndrmw"><img title="Author" src="https://img.shields.io/badge/AUTHOR-YOHANDARA-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Mario Game" width="600" />
 <div align="center">
