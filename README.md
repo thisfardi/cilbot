@@ -1,9 +1,8 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> HI👋 IM CREPY:)
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> HI IM CREPY:)
 <p align="center">
 <img src="https://raw.githubusercontent.com/yhndrmw/cilbot/main/crepybot.png" width="350" height="350"/>
 </p>
 <br>
-
 
 
 <p align="center">
