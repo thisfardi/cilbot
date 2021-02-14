@@ -51,7 +51,8 @@ Script ini di modifikasi saya gabungan dari scripit suhu yang lain yaa...
 ```
 
 
-Ket: Aktiv 24 jam
+Ket: Terus Aktif Bila Data Seluler & Bot Termux Terus Berjalan
+USER RDP? SELALU AKTIF BILA DATA SELULER AKTIF AGAR WA UTAMA AKTIF
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
 * [`Donasi Yohandara`](https://saweria.co/yhndrmw)
